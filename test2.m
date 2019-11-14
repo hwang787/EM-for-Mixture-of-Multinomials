@@ -1,4 +1,4 @@
-function [] = homework2( )
+function [] = test2( )
 % This is a simple example to help you evaluate your clustering algo implementation. You should run your code several time and report the best
 % result. The data contains a 400*101 matrix call X, in which the last
 % column is the true label of the assignment, but you are not allowed to
